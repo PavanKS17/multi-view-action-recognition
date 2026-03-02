@@ -112,7 +112,7 @@ We will be running your code against a hold-out set to evaluate correctness, so 
 
 ## Getting Started 
 
-Please clone this repo, and then create a new private repo within your GitHub user. Replace the remote of your local repo with the newly created private repo’s remote. Share that private repo with a few members of our technical team (GitHub usernames: `kathryn-transfyrai` and `ari-transfyr`).
+Please clone this repo, and then create a new private repo within your GitHub user. Replace the remote of your local repo with the newly created private repo’s remote. Share that private repo with a few members of our technical team (GitHub usernames: `kathryn-transfyrai` and `ari-transfyr` as well as our CEO 'annamariewagner').
 
 Additionally, please record a short video 5-10 min that walks through your solution and explains your thought process. Loom or similar services are a great way to record this video! If you have any questions, please don't hesitate to reach out to the Transfyr technical team.
 
